@@ -1,0 +1,19 @@
+{
+  "name": "cricketwala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vansh1067/cricketWala.git"
+  },
+  "author": "Vansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vansh1067/cricketWala/issues"
+  },
+  "homepage": "https://github.com/Vansh1067/cricketWala#readme"
+}
